@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "Acme Pentest",
+    "templateId": "1689e186-fb46-4d93-b628-e8c5f27cf23e",
+    "templateName": "Devsec pentest report template",
+    "json_structure": "{\n    \"executive_summary\": \"md\",\n    \"background\": \"md\",\n    \"purpose\": \"md\",\n    \"methodology\": \"md\",\n    \"scope\": \"md\",\n    \"definition_descriptions\": \"md\",\n    \"findings\": [\n        {\n            \"finding_number\": \"string\",\n            \"finding_title\": \"string\",\n            \"consequence\": \"color\",\n            \"likelihood\": \"color\",\n            \"severity\": \"color\",\n            \"general_vulnerability_description\": \"string\",\n            \"finding_text\": \"md\"\n        }\n    ],\n    \"conclusion\": \"md\"\n}",
+    "json_data": "{\"executive_summary\":\"exec sum åäö\",\"background\":\"ergerg\",\"purpose\":\"ergerg\",\"findings\":[{\"finding_number\":\"1\",\"finding_title\":\"wefwef\",\"general_vulnerability_description\":\"wefwef\",\"finding_text\":\"wefwef\"}],\"conclusion\":\"wefwef\"}",
+    "id": "60ec2928-1293-45cd-8d1b-d8882e0a7ff9",
+    "createdAt": "2025-03-18T20:18:03.319Z",
+    "updatedAt": "2025-03-18T20:18:31.262Z"
+  }
+]
