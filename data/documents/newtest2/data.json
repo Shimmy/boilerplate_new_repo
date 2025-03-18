@@ -4,7 +4,7 @@
   "templateId": "a71e34df-748c-481f-bd3d-5f7c7900ae15",
   "templateName": "Devsec pentest report template",
   "json_structure": "{\n    \"executive_summary\": \"md\",\n    \"background\": \"md\",\n    \"purpose\": \"md\",\n    \"methodology\": \"md\",\n    \"scope\": \"md\",\n    \"definition_descriptions\": \"md\",\n    \"findings\": [\n        {\n            \"finding_number\": \"string\",\n            \"finding_title\": \"string\",\n            \"consequence\": \"color\",\n            \"likelihood\": \"color\",\n            \"severity\": \"color\",\n            \"general_vulnerability_description\": \"string\",\n            \"finding_text\": \"md\"\n        }\n    ],\n    \"conclusion\": \"md\"\n}",
-  "json_data": "{}",
+  "json_data": "{\"executive_summary\":\"rthrthrth\"}",
   "createdAt": "2025-03-18T20:02:50.507Z",
-  "updatedAt": "2025-03-18T20:02:50.507Z"
+  "updatedAt": "2025-03-18T20:03:13.209Z"
 }
