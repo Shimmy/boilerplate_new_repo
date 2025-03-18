@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Cross-Site Scripting (XSS)",
+    "content": "XSS vulnerabilities occur when applications include untrusted data in a web page without proper validation or escaping, allowing attackers to execute scripts in a user's browser.",
+    "language": "english",
+    "tags": [
+      "OWASP",
+      "Security",
+      "XSS"
+    ],
+    "id": "02b9805b-9e4f-4927-80e0-2f979162b906",
+    "createdAt": "2025-03-18T20:01:02.721Z",
+    "updatedAt": "2025-03-18T20:01:02.721Z"
+  },
+  {
+    "title": "Security Misconfiguration",
+    "content": "Security misconfiguration occurs when security settings are defined, implemented, and maintained improperly, making systems vulnerable to attacks.",
+    "language": "english",
+    "tags": [
+      "OWASP",
+      "Security",
+      "Configuration"
+    ],
+    "id": "13cf2efc-6d38-4e44-b42a-7250248375a9",
+    "createdAt": "2025-03-18T20:01:02.618Z",
+    "updatedAt": "2025-03-18T20:01:02.618Z"
+  },
+  {
+    "title": "Sensitive Data Exposure",
+    "content": "Sensitive data exposure occurs when applications do not adequately protect sensitive information such as financial or healthcare data, potentially leading to unauthorized access and data breaches.",
+    "language": "english",
+    "tags": [
+      "OWASP",
+      "Security",
+      "Data Exposure"
+    ],
+    "id": "3ac88c3a-38fb-401b-87f5-9cbd117adb4b",
+    "createdAt": "2025-03-18T20:01:02.505Z",
+    "updatedAt": "2025-03-18T20:01:02.505Z"
+  },
+  {
+    "title": "Broken Access Control",
+    "content": "Broken access control occurs when restrictions on authenticated users are not properly enforced, allowing attackers to act outside of their intended permissions.",
+    "language": "english",
+    "tags": [
+      "OWASP",
+      "Security",
+      "Access Control"
+    ],
+    "id": "44e0a716-09ac-41d2-951c-9145670c860e",
+    "createdAt": "2025-03-18T20:01:02.617Z",
+    "updatedAt": "2025-03-18T20:01:02.617Z"
+  },
+  {
+    "title": "Broken Authentication",
+    "content": "Broken authentication vulnerabilities occur when application functions related to authentication and session management are implemented incorrectly, allowing attackers to compromise passwords, keys, or session tokens.",
+    "language": "english",
+    "tags": [
+      "OWASP",
+      "Security",
+      "Authentication"
+    ],
+    "id": "53184aa0-a429-4d6f-9a95-e3843124d54e",
+    "createdAt": "2025-03-18T20:01:02.393Z",
+    "updatedAt": "2025-03-18T20:01:02.393Z"
+  },
+  {
+    "title": "XML External Entities (XXE)",
+    "content": "XXE vulnerabilities arise when XML parsers process external entities within XML documents, which can lead to data exposure, denial of service, or server-side request forgery attacks.",
+    "language": "english",
+    "tags": [
+      "OWASP",
+      "Security",
+      "XXE"
+    ],
+    "id": "7a1572e4-c5dc-4ac9-826a-13f34859b092",
+    "createdAt": "2025-03-18T20:01:02.507Z",
+    "updatedAt": "2025-03-18T20:01:02.507Z"
+  },
+  {
+    "title": "Insecure Deserialization",
+    "content": "Insecure deserialization vulnerabilities arise when untrusted data is used to abuse the logic of an application, escalate privileges, or execute arbitrary code.",
+    "language": "english",
+    "tags": [
+      "OWASP",
+      "Security",
+      "Deserialization"
+    ],
+    "id": "7d92a7f9-23e8-40f5-9d21-662343959815",
+    "createdAt": "2025-03-18T20:01:02.723Z",
+    "updatedAt": "2025-03-18T20:01:02.723Z"
+  },
+  {
+    "title": "Injection Vulnerability",
+    "content": "Injection vulnerabilities occur when untrusted data is sent to an interpreter as part of a command or query. Attackers can exploit these flaws to execute unintended commands or access unauthorized data.",
+    "language": "english",
+    "tags": [
+      "OWASP",
+      "Security",
+      "Injection"
+    ],
+    "id": "bfc97bad-1fc0-4b12-890b-b5c6fbc48c2d",
+    "createdAt": "2025-03-18T20:01:02.390Z",
+    "updatedAt": "2025-03-18T20:01:02.390Z"
+  },
+  {
+    "title": "Using Components with Known Vulnerabilities",
+    "content": "This vulnerability occurs when applications use third-party components with known security flaws, potentially allowing attackers to exploit these weaknesses.",
+    "language": "english",
+    "tags": [
+      "OWASP",
+      "Security",
+      "Components"
+    ],
+    "id": "c7b628cf-8ee8-4d2c-8fd0-d11d065b7178",
+    "createdAt": "2025-03-18T20:01:02.826Z",
+    "updatedAt": "2025-03-18T20:01:02.826Z"
+  },
+  {
+    "title": "Insufficient Logging and Monitoring",
+    "content": "This issue arises when logging and monitoring are inadequate, allowing attackers to further exploit systems, maintain persistence, and pivot to other systems without detection.",
+    "language": "english",
+    "tags": [
+      "OWASP",
+      "Security",
+      "Logging"
+    ],
+    "id": "d189bd83-1877-4eb4-956b-69b2b108d392",
+    "createdAt": "2025-03-18T20:01:02.827Z",
+    "updatedAt": "2025-03-18T20:01:02.827Z"
+  }
+]
