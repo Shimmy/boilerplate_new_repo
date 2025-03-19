@@ -65,6 +65,15 @@
     "updatedAt": "2025-03-18T20:01:02.393Z"
   },
   {
+    "title": "testäöå",
+    "content": "åäö",
+    "language": "english",
+    "tags": [],
+    "id": "616f460c-d375-49d2-b834-1e312facb96a",
+    "createdAt": "2025-03-19T08:13:22.998Z",
+    "updatedAt": "2025-03-19T08:13:22.998Z"
+  },
+  {
     "title": "XML External Entities (XXE)",
     "content": "XXE vulnerabilities arise when XML parsers process external entities within XML documents, which can lead to data exposure, denial of service, or server-side request forgery attacks.",
     "language": "english",
